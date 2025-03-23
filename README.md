@@ -1,3 +1,3 @@
 # skarzdemo
-this is my first git repositpry
-Author-Snehanshu Kar
+this is my first git repository
+Author - Snehanshu Kar
